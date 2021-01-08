@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\bin\Debug\copytoclipboard.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\bin\Debug\copytoclipboard.exe
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\bin\Debug\copytoclipboard.pdb
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\obj\Debug\copytoclipboard.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\obj\Debug\copytoclipboard.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\obj\Debug\copytoclipboard.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\obj\Debug\copytoclipboard.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\obj\Debug\copytoclipboard.exe
+c:\users\dell\documents\visual studio 2013\Projects\copytoclipboard\copytoclipboard\obj\Debug\copytoclipboard.pdb
